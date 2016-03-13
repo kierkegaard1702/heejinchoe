@@ -1,0 +1,1039 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.5 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist{nty}{nty}
+    \entry{ANC97}{book}{}
+      \name{author}{1}{}{%
+        {{hash=eae2df50441859da06d0efef375f923b}{Ancel}{A\bibinitperiod}{Pascale}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Paris Montréal}%
+      }
+      \list{publisher}{1}{%
+        {l'Harmattan}%
+      }
+      \strng{namehash}{eae2df50441859da06d0efef375f923b}
+      \strng{fullhash}{eae2df50441859da06d0efef375f923b}
+      \field{sortinit}{A}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Logiques sociales}
+      \field{title}{Une représentation sociale du temps étude pour une sociologie de l'art}
+      \field{year}{1997}
+    \endentry
+    \entry{AronR1967}{book}{}
+      \name{author}{1}{}{%
+        {{hash=b69d9226a8528560ddca2760808aa46e}{Aron}{A\bibinitperiod}{Raymond}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Gallimard}%
+      }
+      \strng{namehash}{b69d9226a8528560ddca2760808aa46e}
+      \strng{fullhash}{b69d9226a8528560ddca2760808aa46e}
+      \field{sortinit}{A}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Bibliothèque des sciences humaines}
+      \field{title}{Les étapes de la pensée sociologique: Montesquieu, Comte, Marx, Tocqueville, Durkheim, Pareto, Weber}
+      \field{year}{1967}
+    \endentry
+    \entry{ASA11}{online}{}
+      \name{author}{1}{}{%
+        {{hash=c1d86835939ad4ed39a952a6a5ea1d88}{Asas}{A\bibinitperiod}{Naim}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{c1d86835939ad4ed39a952a6a5ea1d88}
+      \strng{fullhash}{c1d86835939ad4ed39a952a6a5ea1d88}
+      \field{sortinit}{A}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{La notion de représentation}
+      \field{urlday}{27}
+      \field{urlmonth}{02}
+      \field{urlyear}{2016}
+      \field{year}{2011}
+      \verb{url}
+      \verb http://www.naimasas-com.net/article-la-notion-de-representation-94684645.html
+      \endverb
+    \endentry
+    \entry{BAR93}{book}{}
+      \true{moreauthor}
+      \name{author}{1}{}{%
+        {{hash=731a7f25d45c1bb84ba6db65f9b04250}{Barnett}{B\bibinitperiod}{J.\bibnamedelimi H.}{J\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Séoul}%
+      }
+      \list{publisher}{1}{%
+        {Mi-jin-sa}%
+      }
+      \strng{namehash}{3993bb5d33cb0f2808789daf88769379}
+      \strng{fullhash}{3993bb5d33cb0f2808789daf88769379}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{La théorie et le déploiement de l'art}
+      \field{year}{1993}
+    \endentry
+    \entry{BAS77}{book}{}
+      \name{author}{1}{}{%
+        {{hash=6ac3b21a071850a59304acd20f0c0c73}{Bastide}{B\bibinitperiod}{Roger}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Payot}%
+      }
+      \strng{namehash}{6ac3b21a071850a59304acd20f0c0c73}
+      \strng{fullhash}{6ac3b21a071850a59304acd20f0c0c73}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Art et société}
+      \field{year}{1977}
+    \endentry
+    \entry{Boudon2001}{article}{}
+      \name{author}{1}{}{%
+        {{hash=627b05984f9df7ed9e39a186a7b53c41}{Boudon}{B\bibinitperiod}{Raymond}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Presses universitaires de France}%
+      }
+      \strng{namehash}{627b05984f9df7ed9e39a186a7b53c41}
+      \strng{fullhash}{627b05984f9df7ed9e39a186a7b53c41}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{L'année sociologique (1940/1948-)}
+      \field{number}{1}
+      \field{title}{La rationalité du religieux selon Max Weber}
+      \field{volume}{51}
+      \field{year}{2001}
+      \field{pages}{9\bibrangedash 50}
+      \range{pages}{42}
+    \endentry
+    \entry{BOU80}{book}{}
+      \name{author}{1}{}{%
+        {{hash=66fa13ccac127aceaa40508629646509}{Bourdieu}{B\bibinitperiod}{Pierre}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Éditions de Minuit}%
+      }
+      \strng{namehash}{66fa13ccac127aceaa40508629646509}
+      \strng{fullhash}{66fa13ccac127aceaa40508629646509}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Questions de sociologie}
+      \field{year}{1980}
+    \endentry
+    \entry{COM42}{online}{}
+      \name{author}{1}{}{%
+        {{hash=884fa467ccece84102d8214b5e901c3f}{Comte}{C\bibinitperiod}{Auguste}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Les classiques des sciences sociales}%
+      }
+      \strng{namehash}{884fa467ccece84102d8214b5e901c3f}
+      \strng{fullhash}{884fa467ccece84102d8214b5e901c3f}
+      \field{sortinit}{C}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Discours sur l'esprit positif}
+      \field{urlday}{29}
+      \field{urlmonth}{02}
+      \field{urlyear}{2016}
+      \field{year}{1842}
+      \verb{url}
+      \verb http://classiques.uqac.ca/classiques/Comte_auguste/discours_esprit_positif/Discours_esprit_positif.pdf
+      \endverb
+    \endentry
+    \entry{DAN06}{online}{}
+      \name{author}{1}{}{%
+        {{hash=24b96ddb4ca675b33e4cfb8164d3a4a6}{Danic}{D\bibinitperiod}{Isabelle}{I\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{24b96ddb4ca675b33e4cfb8164d3a4a6}
+      \strng{fullhash}{24b96ddb4ca675b33e4cfb8164d3a4a6}
+      \field{sortinit}{D}
+      \field{sortinithash}{78f7c4753a2004675f316a80bdb31742}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{La notion de représentation pour les sociologues. Premier aperçu}
+      \field{urlday}{27}
+      \field{urlmonth}{02}
+      \field{urlyear}{2016}
+      \field{year}{2006}
+      \verb{url}
+      \verb http://eso.cnrs.fr/_attachments/n-25-decembre-2006-travaux-et-documents/danic.pdf?download=true
+      \endverb
+    \endentry
+    \entry{DUN98}{book}{}
+      \name{author}{1}{}{%
+        {{hash=24a677cab140c2f9c9a7e8d46089cb2f}{Duneton}{D\bibinitperiod}{Claude}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Seuil}%
+      }
+      \strng{namehash}{24a677cab140c2f9c9a7e8d46089cb2f}
+      \strng{fullhash}{24a677cab140c2f9c9a7e8d46089cb2f}
+      \field{sortinit}{D}
+      \field{sortinithash}{78f7c4753a2004675f316a80bdb31742}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Histoire de la chanson française}
+      \field{volume}{1}
+      \field{year}{1998}
+    \endentry
+    \entry{DURRMS}{book}{}
+      \name{author}{1}{}{%
+        {{hash=132c404883320a7b65da54d2ee256814}{Durkheim}{D\bibinitperiod}{Émile}{É\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Flammarion}%
+      }
+      \strng{namehash}{132c404883320a7b65da54d2ee256814}
+      \strng{fullhash}{132c404883320a7b65da54d2ee256814}
+      \field{sortinit}{D}
+      \field{sortinithash}{78f7c4753a2004675f316a80bdb31742}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Les règles de la méthode sociologique}
+      \field{year}{2010}
+    \endentry
+    \entry{DUR98}{article}{}
+      \name{author}{1}{}{%
+        {{hash=132c404883320a7b65da54d2ee256814}{Durkheim}{D\bibinitperiod}{Émile}{É\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Presses universitaires de France}%
+      }
+      \strng{namehash}{132c404883320a7b65da54d2ee256814}
+      \strng{fullhash}{132c404883320a7b65da54d2ee256814}
+      \field{sortinit}{D}
+      \field{sortinithash}{78f7c4753a2004675f316a80bdb31742}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revue de métaphysique et de morale}
+      \field{number}{3}
+      \field{title}{Représentations individuelles et représentations collectives}
+      \field{volume}{6}
+      \field{year}{1898}
+      \field{pages}{273\bibrangedash 302}
+      \range{pages}{30}
+    \endentry
+    \entry{DUR10}{book}{}
+      \name{author}{1}{}{%
+        {{hash=132c404883320a7b65da54d2ee256814}{Durkheim}{D\bibinitperiod}{Émile}{É\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Presses universitaires de France}%
+      }
+      \strng{namehash}{132c404883320a7b65da54d2ee256814}
+      \strng{fullhash}{132c404883320a7b65da54d2ee256814}
+      \field{sortinit}{D}
+      \field{sortinithash}{78f7c4753a2004675f316a80bdb31742}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Sociologie et philosophie}
+      \field{year}{2010}
+    \endentry
+    \entry{DURMAU13}{article}{}
+      \name{author}{2}{}{%
+        {{hash=132c404883320a7b65da54d2ee256814}{Durkheim}{D\bibinitperiod}{Émile}{É\bibinitperiod}{}{}{}{}}%
+        {{hash=6a3e0823e5800b6d0c891638bb5a4e33}{Mauss}{M\bibinitperiod}{Marcel}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{14f18da65497cf3b4a49db07565c569d}
+      \strng{fullhash}{14f18da65497cf3b4a49db07565c569d}
+      \field{sortinit}{D}
+      \field{sortinithash}{78f7c4753a2004675f316a80bdb31742}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{L'année sociologique}
+      \field{title}{Note sur la notion de civilisation}
+      \field{volume}{12}
+      \field{year}{1913}
+      \field{pages}{46\bibrangedash 50}
+      \range{pages}{5}
+    \endentry
+    \entry{DUV67}{book}{}
+      \name{author}{1}{}{%
+        {{hash=4d69bed4df73dfc93701a1a36bad51a1}{Duvignaud}{D\bibinitperiod}{Jean}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Presses universitaires de France}%
+      }
+      \strng{namehash}{4d69bed4df73dfc93701a1a36bad51a1}
+      \strng{fullhash}{4d69bed4df73dfc93701a1a36bad51a1}
+      \field{sortinit}{D}
+      \field{sortinithash}{78f7c4753a2004675f316a80bdb31742}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Le sociologue}
+      \field{title}{Sociologie de l'art}
+      \field{year}{1967}
+    \endentry
+    \entry{ELI91}{book}{}
+      \name{author}{1}{}{%
+        {{hash=5407122f6c0e622926d4f151158bca06}{Elias}{E\bibinitperiod}{Norbert}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Fayard}%
+      }
+      \strng{namehash}{5407122f6c0e622926d4f151158bca06}
+      \strng{fullhash}{5407122f6c0e622926d4f151158bca06}
+      \field{sortinit}{E}
+      \field{sortinithash}{fefc5210ef4721525b2a478df41efcd4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{La société des individus}
+      \field{year}{1991}
+    \endentry
+    \entry{ELI91b}{book}{}
+      \name{author}{1}{}{%
+        {{hash=5407122f6c0e622926d4f151158bca06}{Elias}{E\bibinitperiod}{Norbert}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Seuil}%
+      }
+      \strng{namehash}{5407122f6c0e622926d4f151158bca06}
+      \strng{fullhash}{5407122f6c0e622926d4f151158bca06}
+      \field{sortinit}{E}
+      \field{sortinithash}{fefc5210ef4721525b2a478df41efcd4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Mozart, sociologie d'un génie}
+      \field{year}{1991}
+    \endentry
+    \entry{GRE06}{book}{}
+      \name{author}{1}{}{%
+        {{hash=a68222d77df03b54b4bee6fcde09c987}{Green}{G\bibinitperiod}{Anne-Marie}{A\bibinithyphendelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {L'Harmattan}%
+      }
+      \strng{namehash}{a68222d77df03b54b4bee6fcde09c987}
+      \strng{fullhash}{a68222d77df03b54b4bee6fcde09c987}
+      \field{sortinit}{G}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{De la musique en sociologie}
+      \field{year}{2006}
+    \endentry
+    \entry{GRE97}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=a68222d77df03b54b4bee6fcde09c987}{Green}{G\bibinitperiod}{Anne-Marie}{A\bibinithyphendelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=e6bb6bb9576d5cf2ab68cdd0be449b36}{Escal}{E\bibinitperiod}{Françoise}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=81e7c69830b5105e5e975f7dc671f375}{Imberty}{I\bibinitperiod}{Michel}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {L'Harmattan}%
+      }
+      \strng{namehash}{a68222d77df03b54b4bee6fcde09c987}
+      \strng{fullhash}{a68222d77df03b54b4bee6fcde09c987}
+      \field{sortinit}{G}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{La musique au regard des sciences humaines et des sciences sociales}
+      \field{title}{Y a-t-il une place pour la musique en sociologie?}
+      \field{volume}{2}
+      \field{year}{1997}
+    \endentry
+    \entry{GRO09}{book}{}
+      \name{author}{1}{}{%
+        {{hash=4c4568e9cb6c3a6b82ebe5440bb84284}{Grosse}{G\bibinitperiod}{Ernst}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Esthétiques du divers}%
+      }
+      \strng{namehash}{4c4568e9cb6c3a6b82ebe5440bb84284}
+      \strng{fullhash}{4c4568e9cb6c3a6b82ebe5440bb84284}
+      \field{sortinit}{G}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Arts et anthropologie}
+      \field{title}{Les débuts de l'art}
+      \field{year}{2009}
+    \endentry
+    \entry{GUY87}{online}{}
+      \name{author}{1}{}{%
+        {{hash=4f091183bd7354b71440bfba360833d8}{Guyau}{G\bibinitperiod}{Jean-Marie}{J\bibinithyphendelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Les classiques des sciences sociales}%
+      }
+      \strng{namehash}{4f091183bd7354b71440bfba360833d8}
+      \strng{fullhash}{4f091183bd7354b71440bfba360833d8}
+      \field{sortinit}{G}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{Les principes: essence sociologique de l'art}
+      \field{title}{L'art au point de vue sociologique}
+      \field{urlday}{28}
+      \field{urlmonth}{02}
+      \field{urlyear}{2016}
+      \field{volume}{1}
+      \field{year}{1889}
+      \verb{url}
+      \verb http://classiques.uqac.ca/classiques/guyau_jean_marie/art_pt_de_vue_socio/guyau_jm_art_socio_1.pdf
+      \endverb
+    \endentry
+    \entry{HAL97}{book}{}
+      \name{author}{1}{}{%
+        {{hash=f0d72d6c7032c8accb806b99a1556e87}{Halbwachs}{H\bibinitperiod}{Maurice}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Albin Michel}%
+      }
+      \strng{namehash}{f0d72d6c7032c8accb806b99a1556e87}
+      \strng{fullhash}{f0d72d6c7032c8accb806b99a1556e87}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{La mémoire collective}
+      \field{year}{1997}
+    \endentry
+    \entry{HAL39}{online}{}
+      \name{author}{1}{}{%
+        {{hash=f0d72d6c7032c8accb806b99a1556e87}{Halbwachs}{H\bibinitperiod}{Maurice}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Les classiques des sciences sociales}%
+      }
+      \strng{namehash}{f0d72d6c7032c8accb806b99a1556e87}
+      \strng{fullhash}{f0d72d6c7032c8accb806b99a1556e87}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{La mémoire collective chez les musiciens}
+      \field{urlday}{29}
+      \field{urlmonth}{02}
+      \field{urlyear}{2016}
+      \verb{url}
+      \verb http://www.ssnpstudents.com/wp/wp-content/uploads/2015/02/memoire_coll_musiciens.pdf
+      \endverb
+    \endentry
+    \entry{HEI04}{book}{}
+      \name{author}{1}{}{%
+        {{hash=5b694def7091ec3b2c7525452bde9c43}{Heinich}{H\bibinitperiod}{Nathalie}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {la Découverte}%
+      }
+      \strng{namehash}{5b694def7091ec3b2c7525452bde9c43}
+      \strng{fullhash}{5b694def7091ec3b2c7525452bde9c43}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{Nouvelle édition}
+      \field{series}{Repères 328}
+      \field{title}{La sociologie de l'art}
+      \field{year}{2004}
+    \endentry
+    \entry{HUL08}{article}{}
+      \name{author}{1}{}{%
+        {{hash=ec07e5818e1f3c433ecce4d1109f166c}{Hulak}{H\bibinitperiod}{Florence}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \strng{namehash}{ec07e5818e1f3c433ecce4d1109f166c}
+      \strng{fullhash}{ec07e5818e1f3c433ecce4d1109f166c}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Philonsorbonne}
+      \field{number}{2}
+      \field{title}{En avons-nous fini avec l'histoire des mentalités?}
+      \field{year}{2008}
+      \field{pages}{89\bibrangedash 109}
+      \range{pages}{21}
+    \endentry
+    \entry{JOD97}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=516c4a15ba966e41bdb1278209bcd9a1}{Jodelet}{J\bibinitperiod}{Denise}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=bbcd2822104afc5aa601e7e0350c7844}{Moscovici}{M\bibinitperiod}{Pierre}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Presses universitaires de France}%
+      }
+      \strng{namehash}{516c4a15ba966e41bdb1278209bcd9a1}
+      \strng{fullhash}{516c4a15ba966e41bdb1278209bcd9a1}
+      \field{sortinit}{J}
+      \field{sortinithash}{ec3950a647c092421b9fcca6d819504a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Psychologie sociale}
+      \field{subtitle}{Phénomènes, concept et théorie}
+      \field{title}{Représentation sociale}
+      \field{year}{1997}
+    \endentry
+    \entry{JOU02}{book}{}
+      \name{author}{1}{}{%
+        {{hash=9753066fbea07ff8f2fc88674b2511a8}{Journet}{J\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Sciences humaines}%
+      }
+      \strng{namehash}{9753066fbea07ff8f2fc88674b2511a8}
+      \strng{fullhash}{9753066fbea07ff8f2fc88674b2511a8}
+      \field{sortinit}{J}
+      \field{sortinithash}{ec3950a647c092421b9fcca6d819504a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{De la mentalité primitive à la pensée sauvage}
+      \field{title}{Lucien Lévy-Bruhl (1857--1939)}
+      \field{year}{2002}
+    \endentry
+    \entry{KEC12}{online}{}
+      \name{author}{1}{}{%
+        {{hash=d37d302d84d51fe89aaf37701f8ac6cb}{Keck}{K\bibinitperiod}{Frédéric}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Delagrave}%
+      }
+      \strng{namehash}{d37d302d84d51fe89aaf37701f8ac6cb}
+      \strng{fullhash}{d37d302d84d51fe89aaf37701f8ac6cb}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Philopsis}
+      \field{subtitle}{\emph{Sociologie et philosophie}, d'Émile Durkheim}
+      \field{title}{Les sciences humaines}
+      \field{urlday}{28}
+      \field{urlmonth}{02}
+      \field{urlyear}{2016}
+      \field{year}{2012}
+      \verb{url}
+      \verb http://www.philopsis.fr/IMG/pdf/sciences-humaines-keck.pdf
+      \endverb
+    \endentry
+    \entry{LALO08}{book}{}
+      \name{author}{1}{}{%
+        {{hash=e7edc7866bb139b94b8d0cfbddf0fc26}{Lalo}{L\bibinitperiod}{Charles}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {F. Alcan}%
+      }
+      \strng{namehash}{e7edc7866bb139b94b8d0cfbddf0fc26}
+      \strng{fullhash}{e7edc7866bb139b94b8d0cfbddf0fc26}
+      \field{sortinit}{L}
+      \field{sortinithash}{872351f18d0f736066eda0bf18bfa4f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Thèse Lettres Paris 1908}
+      \field{title}{Esquisse d'une esthétique musicale scientifique}
+      \field{year}{1908}
+    \endentry
+    \entry{LALO14}{article}{}
+      \name{author}{1}{}{%
+        {{hash=e7edc7866bb139b94b8d0cfbddf0fc26}{Lalo}{L\bibinitperiod}{Charles}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Presses universitaires de France}%
+      }
+      \strng{namehash}{e7edc7866bb139b94b8d0cfbddf0fc26}
+      \strng{fullhash}{e7edc7866bb139b94b8d0cfbddf0fc26}
+      \field{sortinit}{L}
+      \field{sortinithash}{872351f18d0f736066eda0bf18bfa4f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revue philosophique de la France et de l'étranger}
+      \field{title}{Programme d'une esthétique sociologique}
+      \field{volume}{78}
+      \field{year}{1914}
+      \field{pages}{40\bibrangedash 51}
+      \range{pages}{12}
+    \endentry
+    \entry{MAReu}{reference}{}
+      \name{author}{1}{}{%
+        {{hash=e3ffe1deb6f5801c79a9b5c0d01cb92d}{Marin}{M\bibinitperiod}{Louis}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{e3ffe1deb6f5801c79a9b5c0d01cb92d}
+      \strng{fullhash}{e3ffe1deb6f5801c79a9b5c0d01cb92d}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Encyclopedia Universalis (en ligne)}
+      \field{title}{ART (Le discours sur l'art) --- Sémiologie de l'art}
+      \field{urlday}{29}
+      \field{urlmonth}{02}
+      \field{urlyear}{2016}
+      \verb{url}
+      \verb http://www.universalis.fr/encyclopedie/art-le-discours-sur-l-art-semiologie-de-l-art/
+      \endverb
+    \endentry
+    \entry{MAR-SAN}{online}{}
+      \name{author}{1}{}{%
+        {{hash=3966f4b4ab7a51f84cbbcc039be0582f}{{Martin\bibnamedelimb Sanchez}}{M\bibinitperiod}{Marie-Odile}{M\bibinithyphendelim O\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3966f4b4ab7a51f84cbbcc039be0582f}
+      \strng{fullhash}{3966f4b4ab7a51f84cbbcc039be0582f}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Concept de représentation sociale}
+      \field{urlday}{27}
+      \field{urlmonth}{02}
+      \field{urlyear}{2016}
+      \verb{url}
+      \verb http://www.serpsy.org/formation_debat/mariodile_5.html
+      \endverb
+    \endentry
+    \entry{MAU50}{book}{}
+      \name{author}{1}{}{%
+        {{hash=6a3e0823e5800b6d0c891638bb5a4e33}{Mauss}{M\bibinitperiod}{Marcel}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Presses universitaires de France}%
+      }
+      \strng{namehash}{6a3e0823e5800b6d0c891638bb5a4e33}
+      \strng{fullhash}{6a3e0823e5800b6d0c891638bb5a4e33}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Sociologie et anthropologie}
+      \field{year}{1950}
+    \endentry
+    \entry{Mazuir2004}{article}{}
+      \name{author}{1}{}{%
+        {{hash=9b45e0e60255323e3dcb0e9c8532484e}{Mazuir}{M\bibinitperiod}{Françoise}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {De Boeck Supérieur}%
+      }
+      \strng{namehash}{9b45e0e60255323e3dcb0e9c8532484e}
+      \strng{fullhash}{9b45e0e60255323e3dcb0e9c8532484e}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sociétés}
+      \field{month}{04}
+      \field{title}{Le processus de rationalisation chez Max Weber}
+      \field{volume}{86}
+      \field{year}{2004}
+      \field{pages}{119\bibrangedash 124}
+      \range{pages}{6}
+    \endentry
+    \entry{MOL73}{article}{}
+      \name{author}{1}{}{%
+        {{hash=d94b60548bf27a29ae07543a34fe80cc}{Molino}{M\bibinitperiod}{Jean}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Presses de l'université de Montréal}%
+      }
+      \strng{namehash}{d94b60548bf27a29ae07543a34fe80cc}
+      \strng{fullhash}{d94b60548bf27a29ae07543a34fe80cc}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sociologie et société}
+      \field{number}{2}
+      \field{title}{Critique sémiologique de l'idéologie}
+      \field{volume}{5}
+      \field{year}{1973}
+      \field{pages}{17\bibrangedash 44}
+      \range{pages}{28}
+    \endentry
+    \entry{MOU04}{book}{}
+      \name{author}{1}{}{%
+        {{hash=27532f5bae21e6f7e761bf05fec4d7e7}{Moulin}{M\bibinitperiod}{Jean-Pierre}{J\bibinithyphendelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Yens sur Morges}%
+      }
+      \list{publisher}{1}{%
+        {Éd. Cabédita}%
+      }
+      \strng{namehash}{27532f5bae21e6f7e761bf05fec4d7e7}
+      \strng{fullhash}{27532f5bae21e6f7e761bf05fec4d7e7}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Collection Archives vivantes}
+      \field{title}{Une histoire de la chanson française: des troubadours au rap}
+      \field{year}{2004}
+    \endentry
+    \entry{NAT74}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b87f21d5d0a4f05371e0a6a2fe910b28}{Nattiez}{N\bibinitperiod}{Jean-Jacques}{J\bibinithyphendelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Croatian Musicological Society}%
+      }
+      \strng{namehash}{b87f21d5d0a4f05371e0a6a2fe910b28}
+      \strng{fullhash}{b87f21d5d0a4f05371e0a6a2fe910b28}
+      \field{sortinit}{N}
+      \field{sortinithash}{925374ca63e7594de7fafdb83e64d41d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Review of the Aesthetics and Sociology of Music}
+      \field{month}{06}
+      \field{number}{1}
+      \field{title}{Sur les relations entre sociologie et sémiologie musicales}
+      \field{volume}{5}
+      \field{year}{1974}
+      \field{pages}{61\bibrangedash 75}
+      \range{pages}{15}
+    \endentry
+    \entry{Pedler2003}{book}{}
+      \name{author}{1}{}{%
+        {{hash=31085cb64e60e0ce3feaf9ad0482a5b9}{Pedler}{P\bibinitperiod}{Emmanuel}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Paris Budapest Torino [etc.]}%
+      }
+      \list{publisher}{1}{%
+        {l'Harmattan}%
+      }
+      \strng{namehash}{31085cb64e60e0ce3feaf9ad0482a5b9}
+      \strng{fullhash}{31085cb64e60e0ce3feaf9ad0482a5b9}
+      \field{sortinit}{P}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Logiques sociales}
+      \field{title}{Entendre l'opéra: une sociologie du théâtre lyrique}
+      \field{year}{2003}
+    \endentry
+    \entry{PED2010}{article}{}
+      \name{author}{1}{}{%
+        {{hash=31085cb64e60e0ce3feaf9ad0482a5b9}{Pedler}{P\bibinitperiod}{Emmanuel}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Presses universitaires de France}%
+      }
+      \strng{namehash}{31085cb64e60e0ce3feaf9ad0482a5b9}
+      \strng{fullhash}{31085cb64e60e0ce3feaf9ad0482a5b9}
+      \field{sortinit}{P}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{L'année sociologique (1940/1948-)}
+      \field{number}{2}
+      \field{title}{Les sociologies de la musique de Max Weber et Georg Simmel: une théorie relationnelle des pratiques musiciennes}
+      \field{volume}{60}
+      \field{year}{2010}
+      \field{pages}{305\bibrangedash 330}
+      \range{pages}{26}
+    \endentry
+    \entry{PIS76}{reference}{}
+      \name{author}{1}{}{%
+        {{hash=3e597a4c262e92d3bdc22ad1644b589c}{Pistone}{P\bibinitperiod}{Daniel}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=e2dc7826d105a9cf8b44bf8cc078c249}{Honegger}{H\bibinitperiod}{Marc}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \strng{namehash}{3e597a4c262e92d3bdc22ad1644b589c}
+      \strng{fullhash}{3e597a4c262e92d3bdc22ad1644b589c}
+      \field{sortinit}{P}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Dictionnaire de la musique}
+      \field{title}{Sociologie de la musique}
+      \field{volume}{2}
+      \field{year}{1976}
+    \endentry
+    \entry{PROad}{book}{}
+      \name{author}{1}{}{%
+        {{hash=24b87bb0747bdb29678133d76ceeceb6}{Proust}{P\bibinitperiod}{Marcel}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Flammarion}%
+      }
+      \strng{namehash}{24b87bb0747bdb29678133d76ceeceb6}
+      \strng{fullhash}{24b87bb0747bdb29678133d76ceeceb6}
+      \field{sortinit}{P}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{La fugitive --- Albertine disparue}
+      \field{year}{1986}
+    \endentry
+    \entry{SCH60}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=e4a5a6e7bc33d552e317024d07910e4c}{Schneider}{S\bibinitperiod}{Marius}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Ethnomusicologie}%
+      }
+      \strng{namehash}{e4a5a6e7bc33d552e317024d07910e4c}
+      \strng{fullhash}{e4a5a6e7bc33d552e317024d07910e4c}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Colloque de Wégimont III}
+      \field{title}{Sociologie et mythologies musicales}
+      \field{year}{1960}
+    \endentry
+    \entry{SUP86}{article}{}
+      \name{author}{1}{}{%
+        {{hash=1aae381a4970f56abb75f62fc7d2816f}{Supičić}{S\bibinitperiod}{Ivo}{I\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Croatian Musicological Society}%
+      }
+      \strng{namehash}{1aae381a4970f56abb75f62fc7d2816f}
+      \strng{fullhash}{1aae381a4970f56abb75f62fc7d2816f}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Review of the Aesthetics and Sociology of Music}
+      \field{number}{2}
+      \field{title}{Les approches socio-historiques de l'œuvre musicale}
+      \field{volume}{17}
+      \field{year}{1986}
+      \field{pages}{223\bibrangedash 238}
+      \range{pages}{16}
+    \endentry
+    \entry{SUP98}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=1aae381a4970f56abb75f62fc7d2816f}{Supičić}{S\bibinitperiod}{Ivo}{I\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Bruxelles}%
+      }
+      \list{publisher}{1}{%
+        {Éditions de l'université de Bruxelles}%
+      }
+      \strng{namehash}{1aae381a4970f56abb75f62fc7d2816f}
+      \strng{fullhash}{1aae381a4970f56abb75f62fc7d2816f}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Musique et société}
+      \field{title}{Les fonctions sociales de la musique}
+      \field{year}{1998}
+    \endentry
+    \entry{SUP71}{book}{}
+      \name{author}{1}{}{%
+        {{hash=1aae381a4970f56abb75f62fc7d2816f}{Supičić}{S\bibinitperiod}{Ivo}{I\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Zagreb}%
+      }
+      \list{publisher}{1}{%
+        {Institut de musicologie, Académie de musique}%
+      }
+      \strng{namehash}{1aae381a4970f56abb75f62fc7d2816f}
+      \strng{fullhash}{1aae381a4970f56abb75f62fc7d2816f}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{Perspectives pour une sociologie de la musique}
+      \field{title}{Musique et société}
+      \field{year}{1971}
+    \endentry
+    \entry{TAR67}{article}{}
+      \name{author}{1}{}{%
+        {{hash=6ab49e14ffd64d9ca77bb568e56cfcb3}{Tarrab}{T\bibinitperiod}{Gilbert}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{6ab49e14ffd64d9ca77bb568e56cfcb3}
+      \strng{fullhash}{6ab49e14ffd64d9ca77bb568e56cfcb3}
+      \field{sortinit}{T}
+      \field{sortinithash}{423d138a005a533b47e6475e39378bf2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{L'homme et la société}
+      \field{number}{1}
+      \field{title}{Jean Duvignaud, \emph{Sociologie de l'art}, Paris, P.U.F. 1967}
+      \field{volume}{6}
+      \field{year}{1967}
+    \endentry
+    \entry{WAT02}{book}{}
+      \name{author}{1}{}{%
+        {{hash=c4ec5c235c097e7f264921b742108719}{Watier}{W\bibinitperiod}{Patrick}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Belfort}%
+      }
+      \list{publisher}{1}{%
+        {Circé}%
+      }
+      \strng{namehash}{c4ec5c235c097e7f264921b742108719}
+      \strng{fullhash}{c4ec5c235c097e7f264921b742108719}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Une introduction à la sociologie compréhensive}
+      \field{year}{2002}
+    \endentry
+    \entry{WEB71}{book}{}
+      \name{author}{1}{}{%
+        {{hash=5c5b680247c92b67e657f8faab60250e}{Weber}{W\bibinitperiod}{Max}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=4b7ae48ce09d8ce89118b7cba7a44cba}{Dampierre}{D\bibinitperiod}{Éric\bibnamedelima de}{É\bibinitperiod\bibinitdelim d\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Plon}%
+      }
+      \strng{namehash}{5c5b680247c92b67e657f8faab60250e}
+      \strng{fullhash}{5c5b680247c92b67e657f8faab60250e}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Recherches en sciences humaines 27}
+      \field{title}{Économie et société}
+      \field{year}{1971}
+    \endentry
+    \entry{Weber1998}{book}{}
+      \name{author}{1}{}{%
+        {{hash=5c5b680247c92b67e657f8faab60250e}{Weber}{W\bibinitperiod}{Max}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Métailié}%
+      }
+      \strng{namehash}{5c5b680247c92b67e657f8faab60250e}
+      \strng{fullhash}{5c5b680247c92b67e657f8faab60250e}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Leçons de choses}
+      \field{title}{Sociologie de la musique: les fondements rationnels et sociaux de la musique}
+      \field{year}{1998}
+    \endentry
+    \entry{Weber1996}{book}{}
+      \name{author}{1}{}{%
+        {{hash=5c5b680247c92b67e657f8faab60250e}{Weber}{W\bibinitperiod}{Max}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=d2c52a802b0ca0f706d305c5bc3a1a7a}{Grossein}{G\bibinitperiod}{Jean-Pierre}{J\bibinithyphendelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Gallimard}%
+      }
+      \strng{namehash}{5c5b680247c92b67e657f8faab60250e}
+      \strng{fullhash}{5c5b680247c92b67e657f8faab60250e}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Bibliothèque des sciences humaines}
+      \field{title}{Sociologie des religions}
+      \field{year}{1996}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

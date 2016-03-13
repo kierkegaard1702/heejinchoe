@@ -1,0 +1,14 @@
+[2] Config.pm:327> INFO - This is Biber 2.3
+[3] Config.pm:330> INFO - Logfile is 'socio-tps-musical.blg'
+[324] biber:287> INFO - === ven. mars 11, 2016, 21:18:11
+[460] Biber.pm:346> INFO - Reading 'socio-tps-musical.bcf'
+[1332] Biber.pm:689> INFO - Found 50 citekeys in bib section 0
+[1380] Biber.pm:3066> INFO - Processing section 0
+[1472] Biber.pm:3206> INFO - Looking for bibtex format file 'biblio.bib' for section 0
+[1505] bibtex.pm:1062> INFO - Decoding LaTeX character macros into UTF-8
+[1537] bibtex.pm:923> INFO - Found BibTeX data source 'biblio.bib'
+[6363] UCollate.pm:66> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[6364] UCollate.pm:66> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[6366] Biber.pm:2943> INFO - Sorting list 'nty' of type 'entry' with scheme 'nty' and locale 'fr-FR'
+[7449] bbl.pm:505> INFO - Writing 'socio-tps-musical.bbl' with encoding 'UTF-8'
+[7482] bbl.pm:596> INFO - Output to socio-tps-musical.bbl

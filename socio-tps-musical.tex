@@ -1,0 +1,226 @@
+\documentclass[%
+  12pt,oneside,output=paper%
+  % ,version=final%
+  ,output=paper%
+]{yathesis}
+\usepackage{ifxetex}
+\ifxetex%
+\usepackage{polyglossia}
+\setmainlanguage{french}
+\usepackage{fontspec}
+\defaultfontfeatures{Ligatures=TeX}
+\setmainfont[%
+  Numbers={Proportional,OldStyle}%
+  ,Contextuals=NoAlternate%
+  ,Language=French%
+  % ,Ligatures=Rare%
+]{Minion Pro%Garamond Premier Pro
+}
+\setsansfont[%
+  Numbers={Proportional,OldStyle}%
+  ,Scale=MatchLowercase%
+  % ,Ligatures=Rare%
+]{Cronos Pro}
+\setmonofont[%
+  Scale=MatchLowercase%
+]{Courier Std}
+\usepackage{xunicode,
+xltxtra}
+\else%
+%\usepackage[french]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[babel]{microtype}
+\usepackage{lmodern}
+ \fi
+\usepackage[autostyle=true]{csquotes}
+\usepackage{%
+  amssymb%
+  % ,bbding%
+  ,dramatist%
+  ,epigraph%
+  ,fancybox%
+  ,frcursive%
+  ,graphicx%
+  ,kantlipsum %la commande est \kant[x-y]
+  ,lettrine%
+  ,marginnote%
+  ,microtype%
+  ,multicol%
+  ,needspace%
+  ,paralist%
+  ,pifont%
+  ,rotating%
+  ,standalone%
+  ,subfiles%
+  ,syntonly%
+  ,tcolorbox%
+  ,textcomp%
+  ,textpos%	
+  ,verse%
+  ,wrapfig%
+  ,xcolor%
+  ,xspace%
+}
+\usepackage{%
+  array%
+  ,booktabs%
+  ,colortbl%
+  ,longtable%
+  ,multirow%
+  ,tabu%
+}
+% set \clubpenalty, etc. to distinctive values for use
+% in tracing page breaks. These values are chosen so that
+% no single penalty will absolutely prohibit a page break, but certain combinations of two or more will.
+\clubpenalty=9996
+\widowpenalty=9999
+\brokenpenalty=4991
+% Reiterate the default value of \redisplaypenalty, for
+% completeness.
+% Set postdisplaypenalty to a fairly high value to discourage a page break between a display and a widow line at the end of a
+% paragraph.
+\predisplaypenalty=10000
+\postdisplaypenalty=1549
+% And then \displaywidowpenalty should be at least as high as
+% \postdisplaypenalty, otherwise in a situation where two displays
+% are separated by two lines, TeX will prefer to break between the
+% two lines, rather than before the first line.
+\displaywidowpenalty=1602
+
+% \linespread{1.5}
+\yadsetup{%
+  frametitle=shadowbox,%
+  space=double%
+}
+
+
+
+
+\usepackage[backend=biber,style=verbose-trad1%authoryear-ibid%%authortitle-ibid
+,autocite=footnote,backref=true]{biblatex}
+\addbibresource{biblio.bib}
+
+
+
+\newcommand{\citpara}[2]
+{%
+  \bigskip%
+  \begin{quote}
+    \textsf{%
+      #1%
+      ~#2
+    }%
+  \end{quote}
+  \bigskip%
+}%
+
+
+\newcommand*{\siecle}[1]{%
+  \textsc{#1}\textsuperscript{e}%
+}
+
+
+
+
+
+
+\usepackage{hyperref}
+\begin{document}
+
+
+\maketitle
+
+
+\makefrontepigraphs
+
+
+\makeabstract
+
+
+\tableofcontents
+
+
+\mainmatter
+
+\chapter*{Problématique}%
+%\addcontentsline{toc}{part}{Problématique}
+
+
+
+\subfile{texte/00-pbmatique}
+
+
+
+
+
+\part{Les cadres théoriques de notre analyse} 
+
+
+\chapter{Examen des études sociologiques de la musique}
+
+\subfile{texte/1/1/00}
+
+% \section{La musique dans la perspective sociologique}
+
+
+\section{L'expression des émotions et les représentations sociales}
+
+
+\subfile{texte/1/1/01}
+
+
+
+
+\section{Genèse de la sociologie de la musique}
+
+
+\subfile{texte/1/1/02}
+
+
+
+\section{Le doute sur la démarche sociologique}
+
+
+\subfile{texte/1/1/03}
+
+
+
+
+
+
+
+\section{Du fait social au fait \enquote{musical}}
+
+
+\subfile{texte/1/1/04}
+
+
+
+\section{L'évolution musicale et le processus de rationalité selon Max Weber}
+
+
+\subfile{texte/1/1/05}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%deuxième partie
+
+
+
+
+\part{La réflexion diachronique et synchronique de 1939 à 1952}
+
+
+
+\part{Conclusion}
+
+\backmatter
+
+\printbibliography
+
+
+
+\makebackcover
+
+
+\end{document}
